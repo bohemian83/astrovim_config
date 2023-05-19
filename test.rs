@@ -1,3 +1,3 @@
-use std::in
+use std::io;
 
-println!("Hello World")
+println!("Hello World");
